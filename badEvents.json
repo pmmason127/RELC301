@@ -1,0 +1,607 @@
+[
+  {
+    "year": -1700,
+    "title": "Battle of Megiddo",
+    "death_count": 20000
+  },
+  {
+    "year": -1274,
+    "title": "Battle of Kadesh",
+    "death_count": 50000
+  },
+  {
+    "year": -1180,
+    "title": "Trojan War",
+    "death_count": 100000
+  },
+  {
+    "year": -671,
+    "title": "Assyrian Conquest of Egypt",
+    "death_count": 200000
+  },
+  {
+    "year": -492,
+    "title": "Greco-Persian Wars",
+    "death_count": 300000
+  },
+  {
+    "year": -431,
+    "title": "Peloponnesian War",
+    "death_count": 200000
+  },
+  {
+    "year": -428,
+    "title": "Plague of Athens",
+    "death_count": 100000
+  },
+  {
+    "year": -334,
+    "title": "Conquests of Alexander the Great",
+    "death_count": 2000000
+  },
+  {
+    "year": -322,
+    "title": "Wars of the Diadochi",
+    "death_count": 2000000
+  },
+  {
+    "year": -274,
+    "title": "First Syrian War",
+    "death_count": 200000
+  },
+  {
+    "year": -264,
+    "title": "Punic Wars",
+    "death_count": 1000000
+  },
+  {
+    "year": -260,
+    "title": "Second Syrian War",
+    "death_count": 300000
+  },
+  {
+    "year": -246,
+    "title": "Third Syrian War",
+    "death_count": 100000
+  },
+  {
+    "year": -230,
+    "title": "Qin's wars of unification",
+    "death_count": 1000000
+  },
+  {
+    "year": -214,
+    "title": "First Macedonian War",
+    "death_count": 100000
+  },
+  {
+    "year": -200,
+    "title": "Second Macedonian War",
+    "death_count": 40000
+  },
+  {
+    "year": -133,
+    "title": "Han-Xiongnu War",
+    "death_count": 1000000
+  },
+  {
+    "year": -88,
+    "title": "Mithridatic Wars",
+    "death_count": 500000
+  },
+  {
+    "year": -88,
+    "title": "Roman Civil Wars",
+    "death_count": 1000000
+  },
+  {
+    "year": -73,
+    "title": "Spartacus' rebellion",
+    "death_count": 100000
+  },
+  {
+    "year": 165,
+    "title": "Antonine Plague",
+    "death_count": 8000000
+  },
+  {
+    "year": 192,
+    "title": "Chinese Civil War",
+    "death_count": 2000000
+  },
+  {
+    "year": 220,
+    "title": "Three Kingdoms War",
+    "death_count": 36000000
+  },
+  {
+    "year": 260,
+    "title": "Plague of Cyprian",
+    "death_count": 10000
+  },
+  {
+    "year": 526,
+    "title": "Antioch earthquake (Syria)",
+    "death_count": 250000
+  },
+  {
+    "year": 541,
+    "title": "Plague of Constantinople",
+    "death_count": 100000
+  },
+  {
+    "year": 541,
+    "title": "Plague of Justinian",
+    "death_count": 25000000
+  },
+  {
+    "year": 737,
+    "title": "Plague of Justinian II",
+    "death_count": 5000000
+  },
+  {
+    "year": 755,
+    "title": "An Lushan Rebellion",
+    "death_count": 36000000
+  },
+  {
+    "year": 1100,
+    "title": "Crusades",
+    "death_count": 7000000
+  },
+  {
+    "year": 1138,
+    "title": "Aleppo earthquake (Syria)",
+    "death_count": 230000
+  },
+  {
+    "year": 1270,
+    "title": "Mongol Invasion Plague",
+    "death_count": 25000000
+  },
+  {
+    "year": 1316,
+    "title": "Great Famine",
+    "death_count": 10000000
+  },
+  {
+    "year": 1337,
+    "title": "Hundred Years War",
+    "death_count": 3000000
+  },
+  {
+    "year": 1338,
+    "title": "Plague of Tamerlane",
+    "death_count": 17000000
+  },
+  {
+    "year": 1347,
+    "title": "Plague of Caffa",
+    "death_count": 25000000
+  },
+  {
+    "year": 1350,
+    "title": "Black Death",
+    "death_count": 75000000
+  },
+  {
+    "year": 1370,
+    "title": "Conquests of Tamerlane",
+    "death_count": 20000000
+  },
+  {
+    "year": 1370,
+    "title": "Timurid Conquests",
+    "death_count": 20000000
+  },
+  {
+    "year": 1475,
+    "title": "War of the Castilian Succession",
+    "death_count": 1000000
+  },
+  {
+    "year": 1508,
+    "title": "War of the League of Cambrai",
+    "death_count": 3000000
+  },
+  {
+    "year": 1519,
+    "title": "Spanish Conquest of the Aztec Empire",
+    "death_count": 20000000
+  },
+  {
+    "year": 1520,
+    "title": "New World Smallpox Epidemic",
+    "death_count": 60000000
+  },
+  {
+    "year": 1531,
+    "title": "Spanish Conquest of Peru",
+    "death_count": 10000000
+  },
+  {
+    "year": 1545,
+    "title": "The Great Cocoliztli Epidemic",
+    "death_count": 7500000
+  },
+  {
+    "year": 1556,
+    "title": "Shaanxi earthquake (China)",
+    "death_count": 830000
+  },
+  {
+    "year": 1576,
+    "title": "Plague of 1576",
+    "death_count": 300000
+  },
+  {
+    "year": 1580,
+    "title": "Plague of 1580",
+    "death_count": 100000
+  },
+  {
+    "year": 1603,
+    "title": "Plague of 1603",
+    "death_count": 100000
+  },
+  {
+    "year": 1616,
+    "title": "Qing Dynasty Conquest of the Ming Dynasty",
+    "death_count": 25000000
+  },
+  {
+    "year": 1618,
+    "title": "Thirty Years War",
+    "death_count": 8000000
+  },
+  {
+    "year": 1629,
+    "title": "Plague of Milan",
+    "death_count": 100000
+  },
+  {
+    "year": 1645,
+    "title": "Plague of 1645",
+    "death_count": 300000
+  },
+  {
+    "year": 1656,
+    "title": "Plague of Rome",
+    "death_count": 100000
+  },
+  {
+    "year": 1665,
+    "title": "Great Plague of London",
+    "death_count": 100000
+  },
+  {
+    "year": 1666,
+    "title": "Plague of 1666",
+    "death_count": 100000
+  },
+  {
+    "year": 1679,
+    "title": "Plague of 1679",
+    "death_count": 100000
+  },
+  {
+    "year": 1688,
+    "title": "Plague of 1688",
+    "death_count": 100000
+  },
+  {
+    "year": 1700,
+    "title": "Great Northern War",
+    "death_count": 300000
+  },
+  {
+    "year": 1701,
+    "title": "War of the Spanish Succession",
+    "death_count": 400000
+  },
+  {
+    "year": 1709,
+    "title": "Plague of 1709",
+    "death_count": 100000
+  },
+  {
+    "year": 1720,
+    "title": "Great Plague of Marseille",
+    "death_count": 100000
+  },
+  {
+    "year": 1720,
+    "title": "Plague of 1720",
+    "death_count": 100000
+  },
+  {
+    "year": 1738,
+    "title": "Plague of 1738",
+    "death_count": 2000000
+  },
+  {
+    "year": 1738,
+    "title": "Typhus Epidemic",
+    "death_count": 1000000
+  },
+  {
+    "year": 1740,
+    "title": "War of the Austrian Succession",
+    "death_count": 400000
+  },
+  {
+    "year": 1743,
+    "title": "Plague of 1743",
+    "death_count": 1000000
+  },
+  {
+    "year": 1756,
+    "title": "Seven Years War",
+    "death_count": 1000000
+  },
+  {
+    "year": 1770,
+    "title": "Plague of 1770",
+    "death_count": 1000000
+  },
+  {
+    "year": 1793,
+    "title": "Plague of 1793",
+    "death_count": 400000
+  },
+  {
+    "year": 1803,
+    "title": "Napoleonic Wars",
+    "death_count": 6000000
+  },
+  {
+    "year": 1812,
+    "title": "Plague of 1812",
+    "death_count": 1000000
+  },
+  {
+    "year": 1817,
+    "title": "Cholera Pandemic",
+    "death_count": 1000000
+  },
+  {
+    "year": 1817,
+    "title": "Yellow Fever",
+    "death_count": 100000
+  },
+  {
+    "year": 1823,
+    "title": "Plague of 1823",
+    "death_count": 1000000
+  },
+  {
+    "year": 1837,
+    "title": "Plague of 1837",
+    "death_count": 1000000
+  },
+  {
+    "year": 1845,
+    "title": "Plague of 1845",
+    "death_count": 2000000
+  },
+  {
+    "year": 1850,
+    "title": "Taiping Rebellion",
+    "death_count": 30000000
+  },
+  {
+    "year": 1853,
+    "title": "Crimean War",
+    "death_count": 750000
+  },
+  {
+    "year": 1855,
+    "title": "Third Pandemic of Bubonic Plague",
+    "death_count": 12000000
+  },
+  {
+    "year": 1856,
+    "title": "Plague of 1856",
+    "death_count": 1000000
+  },
+  {
+    "year": 1861,
+    "title": "American Civil War",
+    "death_count": 620000
+  },
+  {
+    "year": 1862,
+    "title": "Dungan Revolt",
+    "death_count": 8000000
+  },
+  {
+    "year": 1864,
+    "title": "War of the Triple Alliance",
+    "death_count": 400000
+  },
+  {
+    "year": 1867,
+    "title": "Plague of 1867",
+    "death_count": 1000000
+  },
+  {
+    "year": 1870,
+    "title": "Franco-Prussian War",
+    "death_count": 180000
+  },
+  {
+    "year": 1877,
+    "title": "Russo-Turkish War",
+    "death_count": 200000
+  },
+  {
+    "year": 1887,
+    "title": "Yellow River flood (China)",
+    "death_count": 900000
+  },
+  {
+    "year": 1889,
+    "title": "Influenza Pandemic",
+    "death_count": 1000000
+  },
+  {
+    "year": 1899,
+    "title": "Second Boer War",
+    "death_count": 100000
+  },
+  {
+    "year": 1900,
+    "title": "Third Plague Pandemic",
+    "death_count": 12000000
+  },
+  {
+    "year": 1912,
+    "title": "First Balkan War",
+    "death_count": 100000
+  },
+  {
+    "year": 1917,
+    "title": "Russian Civil War",
+    "death_count": 9000000
+  },
+  {
+    "year": 1918,
+    "title": "World War I",
+    "death_count": 18000000
+  },
+  {
+    "year": 1919,
+    "title": "Spanish Flu",
+    "death_count": 50000000
+  },
+  {
+    "year": 1920,
+    "title": "Haiyuan earthquake (China)",
+    "death_count": 273400
+  },
+  {
+    "year": 1923,
+    "title": "Great Kanto earthquake (Japan)",
+    "death_count": 142800
+  },
+  {
+    "year": 1927,
+    "title": "Chinese Civil War",
+    "death_count": 2000000
+  },
+  {
+    "year": 1930,
+    "title": "Yangtze River floods (China)",
+    "death_count": 4000000
+  },
+  {
+    "year": 1932,
+    "title": "Chaco War",
+    "death_count": 100000
+  },
+  {
+    "year": 1937,
+    "title": "Second Sino-Japanese War",
+    "death_count": 20000000
+  },
+  {
+    "year": 1945,
+    "title": "World War II",
+    "death_count": 85000000
+  },
+  {
+    "year": 1946,
+    "title": "First Indochina War",
+    "death_count": 400000
+  },
+  {
+    "year": 1948,
+    "title": "Ashgabat earthquake (Turkmenistan)",
+    "death_count": 110000
+  },
+  {
+    "year": 1950,
+    "title": "Korean War",
+    "death_count": 3500000
+  },
+  {
+    "year": 1955,
+    "title": "Vietnam War",
+    "death_count": 3000000
+  },
+  {
+    "year": 1957,
+    "title": "Asian Flu",
+    "death_count": 1000000
+  },
+  {
+    "year": 1967,
+    "title": "Nigerian Civil War",
+    "death_count": 3000000
+  },
+  {
+    "year": 1968,
+    "title": "Hong Kong Flu",
+    "death_count": 1000000
+  },
+  {
+    "year": 1970,
+    "title": "Bhola cyclone (Bangladesh)",
+    "death_count": 500000
+  },
+  {
+    "year": 1975,
+    "title": "Typhoon Nina (China)",
+    "death_count": 229000
+  },
+  {
+    "year": 1975,
+    "title": "Vietnam War",
+    "death_count": 3000000
+  },
+  {
+    "year": 1976,
+    "title": "Tangshan earthquake (China)",
+    "death_count": 255000
+  },
+  {
+    "year": 1979,
+    "title": "Soviet-Afghan War",
+    "death_count": 2000000
+  },
+  {
+    "year": 1980,
+    "title": "Iran-Iraq War",
+    "death_count": 2000000
+  },
+  {
+    "year": 1985,
+    "title": "AIDS Pandemic",
+    "death_count": 32000000
+  },
+  {
+    "year": 1991,
+    "title": "Bangladesh cyclone",
+    "death_count": 138000
+  },
+  {
+    "year": 1998,
+    "title": "Second Congo War",
+    "death_count": 5400000
+  },
+  {
+    "year": 2004,
+    "title": "Indian Ocean earthquake and tsunami",
+    "death_count": 230000
+  },
+  {
+    "year": 2010,
+    "title": "Haiti earthquake (Haiti)",
+    "death_count": 316000
+  },
+  {
+    "year": 2020,
+    "title": "COVID-19",
+    "death_count": 6801834
+  }
+]

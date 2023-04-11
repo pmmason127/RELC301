@@ -1,0 +1,10 @@
+natural_disasters = None
+populationDroppers = None
+life_expectancy = None
+birth_rate = None
+infant_mortality_rate = None
+childbirth_mortality_rate = None
+max_age = None
+average_time_between_children = None
+inbreeding_factor = None
+average_age_of_marriage = None
